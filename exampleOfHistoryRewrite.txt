@@ -1,1 +1,8 @@
 git rebase rewrites history
+
+
+commit 9c7cb4b5399b20234d8c250cb97b6914a3a60a3b
+Author: hchan <hchan@apache.org>
+Date:   Sat Jun 1 15:15:35 2019 -0700
+
+    Git rebase will rewrite history
