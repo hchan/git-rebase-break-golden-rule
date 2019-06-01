@@ -1,8 +1,21 @@
-git rebase rewrites history
+Note: git rebase rewrites history
 
-
+Time0: (branch feature/A)
 commit 9c7cb4b5399b20234d8c250cb97b6914a3a60a3b
 Author: hchan <hchan@apache.org>
 Date:   Sat Jun 1 15:15:35 2019 -0700
 
     Git rebase will rewrite history
+
+
+after
+git rebase origin/master
+Time1: (branch feature/A)
+commit 6a4156c902b24a048a9c2ccb730779a24f32cfbb
+Author: hchan <hchan@apache.org>
+Date:   Sat Jun 1 15:15:35 2019 -0700
+
+    Git rebase will rewrite history
+
+
+Doh, the commit ID's are different
