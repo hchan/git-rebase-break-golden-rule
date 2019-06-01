@@ -1,0 +1,1 @@
+# git-rebase-break-golden-rule
