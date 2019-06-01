@@ -5,3 +5,5 @@ See also the [following diagram](gitLogOfFeatureA.png) and notice that there are
 `Git rebase will rewrite history`
 * 6a4156c
 * 9c7cb4b
+
+See: https://github.com/hchan/git-rebase-break-golden-rule/commits/feature/A
